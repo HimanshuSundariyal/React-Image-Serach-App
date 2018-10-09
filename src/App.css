@@ -1,0 +1,10 @@
+.App {
+  width:800px;
+  margin:0 auto;
+}
+
+.images_box { height:120px; border:2px solid #ccc;} 
+
+.images_box img { height:115px; width:115px; cursor:pointer}
+
+
